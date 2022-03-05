@@ -1,1 +1,7 @@
-
+gcc -g p1original.c
+ ./a.out
+Enter the numerator of 1st fraction:1
+Enter the denominator of 1st fraction7
+Enter the numerator of 1st fraction9
+Enter the denominator of 2nd fraction7
+So the sum of 1/7+9/7=10/7
